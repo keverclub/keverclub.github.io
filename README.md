@@ -1,2 +1,2 @@
 # keverclub.github.io
-website
+website visible at https://keverclub.github.io/

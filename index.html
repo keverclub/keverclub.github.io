@@ -1,0 +1,112 @@
+---
+layout: null
+title: Keverclub Roermond
+description: Club voor alle luchtgekoelde VW's en Porsches.
+sitemap:
+    priority: 1.0
+    lastmod: 2018-08-18
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            <h1>{{site.title}}</h1>
+						<h2>Club voor alle luchtgekoelde VW's en Porsches</h2>
+						<p>KeverClub Roermond is sinds januari 2018 'Klassiekerclub Roermond'.<br /> Dit is een gezellige club waar iedereen welkom is die van klassieke auto's houdt. </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Ga verder</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+						<ul class="icons">
+              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<h2><a href="#">Sleutelavond</a></h2>
+									<p>Iedere derde donderdag van de maand (uitgezonderd feestdagen) is er een sleutelavond. Deze vindt plaats bij Stuurman Classic Repairs in Herkenbosch. Hier heb je de mogelijkheid om reparaties en onderhoudswerkzaamheden te verrichten aan je eigen oldtimer. Dit is onder begeleiding van een technisch adviseur. Ook kun je een kijkje komen nemen hoe anderen aan hun wagens sleutelen. </p>
+								</header>
+								<a href="#" class="image main"><img src="{{ "/images/pic11.jpg" | absolute_url }}" alt="" /></a>
+                                <p>Verder worden er door het jaar heen enkele activiteiten georganiseerd, zoals een gezellige toertocht of het bezoeken van een oldtimerevenement. </p>
+                                
+                                <p>De kosten voor het lidmaatschap zijn €50,- </p>
+                                
+                                <p>Heb je verdere vragen, stel ze gerust. Of nog beter, kom ons een bezoekje brengen op een sleutelavond. Vanaf 17.30 uur zijn er altijd mensen aanwezig. Je bent van harte welkom!</p>
+
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Lees</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsors</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
