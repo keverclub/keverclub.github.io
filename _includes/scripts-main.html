@@ -5,3 +5,38 @@
 <script src="{{ "/assets/js/skel.min.js" | absolute_url }}"></script>
 <script src="{{ "/assets/js/util.js" | absolute_url }}"></script>
 <script src="{{ "/assets/js/main.js" | absolute_url }}"></script>
+<script src="{{ "/assets/js/jquery.flexslider.js" | absolute_url }}"></script>
+
+<!-- Sponsors slideshow Script -->
+<script type="text/javascript" charset="utf-8">
+  $(window).load(function() {
+    $('.flexslider').flexslider({
+    animation: "fade",
+    directionNav: false,
+    slideshowSpeed: 5000,
+    animationSpeed: 1000,
+    touch: true,
+    });
+  });
+</script>
+
+<!-- Crunchify's Scroll to Top Script -->
+  <script>            
+	  jQuery(document).ready(function() {
+		  var offset = 220;
+		  var duration = 500;
+		  jQuery(window).scroll(function() {
+		  	  if (jQuery(this).scrollTop() > offset) {
+				  jQuery('.top').fadeIn(duration);
+			  } else {
+				  jQuery('.top').fadeOut(duration);
+			  }
+		  });
+ 
+		  jQuery('.top').click(function(event) {
+			  event.preventDefault();
+			  jQuery('html, body').animate({scrollTop: 0}, duration);
+			  return false;
+		  })
+	  });
+  </script>-->

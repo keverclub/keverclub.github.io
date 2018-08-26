@@ -25,7 +25,7 @@ sitemap:
 						<h2>Club voor alle luchtgekoelde VW's en Porsches</h2>
 						<p>KeverClub Roermond is sinds januari 2018 'Klassiekerclub Roermond'.<br /> Dit is een gezellige club waar iedereen welkom is die van klassieke auto's houdt. </p>
 						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Ga verder</a></li>
+							<li><a href="#header" class="button icon solo fa-chevron-down fa-3x scrolly">Ga verder</a></li>
 						</ul>
 					</div>
 
@@ -54,19 +54,23 @@ sitemap:
 									<h2><a href="#">Sleutelavond</a></h2>
 									<p>Iedere derde donderdag van de maand (uitgezonderd feestdagen) is er een sleutelavond. Deze vindt plaats bij Stuurman Classic Repairs in Herkenbosch. Hier heb je de mogelijkheid om reparaties en onderhoudswerkzaamheden te verrichten aan je eigen oldtimer. Dit is onder begeleiding van een technisch adviseur. Ook kun je een kijkje komen nemen hoe anderen aan hun wagens sleutelen. </p>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic11.jpg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/header6.jpg" | absolute_url }}" alt="" /></a>
                                 <p>Verder worden er door het jaar heen enkele activiteiten georganiseerd, zoals een gezellige toertocht of het bezoeken van een oldtimerevenement. </p>
                                 
                                 <p>De kosten voor het lidmaatschap zijn €50,- </p>
                                 
                                 <p>Heb je verdere vragen, stel ze gerust. Of nog beter, kom ons een bezoekje brengen op een sleutelavond. Vanaf 17.30 uur zijn er altijd mensen aanwezig. Je bent van harte welkom!</p>
+                                
+                                <ul class="actions">
+                                    <li><a href="#sponsr" class="button icon solo fa-chevron-down scrolly">Sponsors</a></li>
+                                </ul>
 
 							</article>
 
 						<!-- Posts -->
 							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+                            {% for post in site.posts limit:3 %}
+                            {% assign mod3 = forloop.index | modulo: 3 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -78,10 +82,26 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Lees</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsors</a></h2>
+                                {% if mod3 == 0 %}
+                                <article>
+  									<header id="sponsr">
+  										<h2><a href="/sponsors">Sponsors</a></h2>
+  										<div class="flexslider">
+                                            <ul class="slides">
+                                                <li>
+                                                <img src="images/sponsors/1.jpg" />
+                                                <a href="http://www.stuurmanclassiccars.nl/" target="blank">Stuurman Classic Cars.nl</a>
+                                                </li>
+                                                <li>
+                                                <img src="images/sponsors/10.png" />
+                                                <a href="http://www.janssenass.nl/" target="blank">Bart Janssen Assurantien</a>
+                                                </li>
+                                                <li>
+                                                <img src="images/sponsors/11.png" />
+                                                <a href="https://www.catalina.nl/" target="blank">Catalina USA PArts</a>
+                                                </li>
+                                            </ul>
+                                            </div>
   									</header>
 
   								</article>
