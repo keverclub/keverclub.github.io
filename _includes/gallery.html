@@ -1,0 +1,12 @@
+<div class="flexslider">
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/images' %}
+    {% unless image.path contains '-th.' %}
+        <a href="{{ image.path }}">
+            <img src="{{ image.path }}" width="240px" alt="">
+        </a>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</div>
+

@@ -13,4 +13,6 @@ sitemap:
     {% include slide.html %}
 </div>
 
+{% include gallery.html %}
+
 <!--{% include image.html folder="/images/sponsors" %}-->
