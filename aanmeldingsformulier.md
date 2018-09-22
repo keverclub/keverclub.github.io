@@ -8,6 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 <h2 align="center">Aanmeldingsformulier</h2>
+Aanmeld-, wijziging- c.q. afmeldformulier Klassiekerclub Roermond
 
 <section>
     <form method="POST" action="https://formspree.io/{{site.email}}">
