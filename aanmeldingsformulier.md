@@ -13,7 +13,7 @@ sitemap:
     <form method="POST" action="https://formspree.io/{{site.email}}">
       <div class="field">
         <label for="name">Je naam (verplicht)</label>
-        <input type="text" name="name" id="name" />
+        <input type="text" name="name" id="name" required />
       </div>
       <div class="field">
         <label for="name">Roepnaam</label>
@@ -21,7 +21,7 @@ sitemap:
       </div>
       <div class="field">
         <label for="email">Je email (verplicht)</label>
-        <input type="text" name="email" id="email" />
+        <input type="text" name="email" id="email" required />
       </div>
       <div class="field">
         <label for="name">Je telefoon</label>
@@ -86,10 +86,10 @@ sitemap:
         <textarea name="message" id="message" rows="3"></textarea>
       </div>
       <h3>Contributiebedragen</h3>
-halfjaar € 25,-- ; kalenderjaar € 50,--
-over te maken op rekeningnummer NL18RABO0174106777 t.n.v. Keverclub Roermond
-
-KvK Limburg Noord 40.17.74.29
+        halfjaar <strong>€ 25,--</strong> <br/>
+        kalenderjaar <strong>€ 50,--</strong> <br/>
+        over te maken op rekeningnummer <strong>NL18 RABO 0174106777</strong> <br/>
+        t.n.v. Keverclub Roermond, KvK Limburg Noord 40.17.74.29
       <ul class="actions">
         <li><input type="submit" value="Verstuur Bericht" /></li>
       </ul>
