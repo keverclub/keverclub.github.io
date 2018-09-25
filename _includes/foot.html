@@ -3,11 +3,11 @@
     <form method="POST" action="https://formspree.io/{{site.email}}">
       <div class="field">
         <label for="name">Naam</label>
-        <input type="text" name="name" id="name" />
+        <input type="text" name="name" id="name" required />
       </div>
       <div class="field">
         <label for="email">Email</label>
-        <input type="text" name="email" id="email" />
+        <input type="text" name="email" id="email" required />
       </div>
       <div class="field">
         <label for="message">Bericht</label>
@@ -15,6 +15,7 @@
       </div>
       <ul class="actions">
         <li><input type="submit" value="Verstuur Bericht" /></li>
+        <input type="hidden" name="_next" value="/verzonden/" />
       </ul>
     </form>
   </section>
@@ -33,7 +34,7 @@
     </section>
     <section>
       <ul class="actions">
-        <li><a href="{{ "/images/aanmeldingsformulier.pdf" | absolute_url }}" target="blank" class="button">aanmeldingsformullier</a></li>
+        <li><a href="{{ "/aanmeldingsformulier" | absolute_url }}" class="button">aanmeldingsformullier</a></li>
       </ul>
     </section>
   </section>
