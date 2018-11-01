@@ -65,7 +65,9 @@ Aanmeld-, wijziging- c.q. afmeldformulier Klassiekerclub Roermond
         <input type="text" name="plaats" id="plaats" />
     </div>
     
-    <h3>Gegevens Auto</h3>
+    <div class="field">
+        <h3>Gegevens Auto</h3>
+    </div>
     
     <div class="field">
         <label for="name">Merk</label>
@@ -101,7 +103,7 @@ Aanmeld-, wijziging- c.q. afmeldformulier Klassiekerclub Roermond
         <h3>Contributiebedragen</h3>
         halfjaar <strong>€ 25,--</strong> <br/>
         kalenderjaar <strong>€ 50,--</strong> <br/>
-        over te maken op rekeningnummer <strong>NL18 RABO 0174106777</strong> <br/>
+        over te maken op rekeningnummer <strong>RegioBank NL51RBRB0777945614</strong> <br/>
         t.n.v. Keverclub Roermond, KvK Limburg Noord 40.17.74.29
     </div>
     
