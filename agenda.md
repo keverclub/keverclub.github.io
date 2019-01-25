@@ -9,27 +9,30 @@ sitemap:
 ---
 ## Agenda activiteiten KlassiekerClub Roermond
 
-### 2018
+### 2019
 
 | Datum                     | Naam                         | Locatie
-| ------------------------- | :----------------------- :|-------------:
-| 7 t/m 9 september         | Beautiful Budel           | Budel  
-| 1e zondag september       | USA Car treffen           | Reuver  
-| 31 augustus 1, 2 september| Oldtimertreffen           | Lanaken  
-| 5 augustus                | Oldtimer Parade           | Geleen  
-| 28, 29 juli               | Internationaal Historisch Festival| Panningen  
-| 14, 15 juli               | Oldtimertreffen Horst     | Horst a/d Maas  
-| 1 juli                    | Oldi Mama                 | Maaseik  
-| 15 t/m 17 juni            | Wonderful Wanroy          | De Bergen Wanroy  
-| 3 juni                    | Promotion Steyl           | Steyl
-| 2 juni                    | Classic Car Event         | IJsselstein  
-| Pinksterweekend           | Camp-out VAG-friends      | Lanaken  
-| 19 mei                    | Fiat 500 Pinkstertreffen  | Sittard-Geleen  
-| 4 t/m 6 mei               | Beatle at the Beach       | Nuenen  
-| 27 april                  | Koningsrit                | Elsloo  
-| 22 april                  | Bloesemtocht              | St Geertruiden  
-| 14, 15 april              | Mustang Fever             | Schaapsweg 4 Heusden/Zolder (Belgie)  
-| 10 t/m 11 maart           | British Cars and Lifestyle| Rosmalen  
-| 4 februari                | Swapmeet (volkswagens)    | Mol (Belgie)  
+| ------------------------- | :----------------------- |:-------------
+| 6 en 7 januari            | Aircooled winterfest      | Rosmalen
 | 11 t/m 14 januari         | Inter Classics            | Maastricht 
-| 6, 7 januari              | Aircooled winterfest      | Rosmalen
+| 3 februari                | Swapmeet (volkswagens)    | Mol (Belgie)  
+| 8 en 9 maart              |  Britisch cars & lifestyle| Autotron Rosmalen  
+| 2e paasdag                |  **open dag KCR**         | nntb
+| 13,14 april               |  Mustang fever            | Heusden/Zolder(BE)
+| 3 t/m 5 mei               |  Oldi Mama                | Maaseik 
+|   mei 2019  *info volgt*  |  **Toertocht KCR**        | Startpunt nntb
+| 11 en 12 mei              |  Montforter oldtimer treff| Montfort
+| 15 t/m 17 juni            |  Beetle at the beach      | Nuenen  
+| 1e zondag juni ?          |  Steyl Promotion          | Steyl
+|    juni                   |  **Amerikaanse BBQ KCR**  | Swalmen
+| 14,15 en 16 juni          |  Wonderful Wanroy         | Wanroy (De Bergen)
+| 7 juli                    |  Oldi Mama                | Maaseik  
+| 27 en 28 juli             |  Internation. Hist. Festiv| Panningen  
+| 28 juli                   |  Oldtimer parade          | Geleen  
+| 1e zondag in september    |  Internat. USA car treffen| Reuver
+| 13,14 en 15 september     |  Beautiful Budel          | Budel 
+| 15 september              |  Keverdag regio limburg   | Brunssum  
+| 19 december               |  eindejaarsbijeenkomst KCR| Swalmen 
+
+
+ 
