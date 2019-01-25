@@ -19,7 +19,7 @@ sitemap:
 | 8 en 9 maart              |  Britisch cars & lifestyle| Autotron Rosmalen  
 | 2e paasdag                |  **open dag KCR**         | nntb
 | 13,14 april               |  Mustang fever            | Heusden/Zolder(BE)
-| 3 t/m 5 mei               |  Oldi Mama                | Maaseik 
+| 3 t/m 5 mei               |  Beetle at the beach      | Nuenen 
 |   mei 2019  *info volgt*  |  **Toertocht KCR**        | Startpunt nntb
 | 11 en 12 mei              |  Montforter oldtimer treff| Montfort
 | 15 t/m 17 juni            |  Beetle at the beach      | Nuenen  
