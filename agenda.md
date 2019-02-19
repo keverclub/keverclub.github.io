@@ -19,18 +19,22 @@ sitemap:
 | 8 en 9 maart              |  Britisch cars & lifestyle| Autotron Rosmalen  
 | 2e paasdag                |  **open dag KCR**         | nntb
 | 13,14 april               |  Mustang fever            | Heusden/Zolder(BE)
-| 21 april                  | Bloesemtocht              | St. Geertruid 
+| 21 april                  |  Bloesemtocht              | St. Geertruid 
 | 3 t/m 5 mei               |  Beetles at the beach     | Nuenen 
 |   mei 2019  *info volgt*  |  **Toertocht KCR**        | Startpunt nntb
+| 11 en 12 mei              |  Nationaal oldtimer festival| Zandvoort
 | 11 en 12 mei              |  Montforter oldtimer treff| Montfort
-| 1e zondag juni ?          |  Steyl Promotion          | Steyl
 |    juni                   |  **Amerikaanse BBQ KCR**  | Swalmen
 | 14,15 en 16 juni          |  Wonderfull Wanroy        | Wanroy (De Bergen)
-| 7 juli                    |  Oldi Mama                | Maaseik  
+| 2 juli                    |  Steyl Promotion          | Steyl
+| 7 juli                    |  Oldiemama                | Maaseik  
 | 27 en 28 juli             |  Internation. Hist. Festiv| Panningen  
-| 28 juli                   |  Oldtimer parade          | Geleen  
+| 28 juli                   |  Oldtimer parade          | Geleen
+| 28 juli                   |  Oldtimer city            | Venray
+| 18 augustus               |  Aircooled summerfest     | Weeze DlD (vliegveld)
 | 1e zondag in september    |  Internat. USA car treffen| Reuver
 | 13,14 en 15 september     |  Beautiful Budel          | Budel 
+| 23,24 en 25 augustus      |  Concours d'elegance      | Soestdijk (Paleis)
 | 15 september              |  Keverdag regio limburg   | Brunssum  
 | 19 december               |  eindejaarsbijeenkomst KCR| Swalmen 
 
