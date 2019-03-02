@@ -13,5 +13,3 @@ De leden hebben de garage verkend en vragen gesteld of zo maar een praatje gemaa
 de FIAT 500 club, die ook leuke verhalen vertelde over zijn (uit de hand gelopen) hobby.
 We hopen op deze locatie weer snel nieuwe leden te mogen verwelkomen. De plaats,materialen en gezelligheid zijn in ieder geval aanwezig. 
 Goede ingrediënten om de club uit te breiden.
-
-**Tot ziens bij garage Thomassen op de Hollestraat 2a in Swalmen**
