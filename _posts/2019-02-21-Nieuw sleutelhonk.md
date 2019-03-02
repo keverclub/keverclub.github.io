@@ -3,7 +3,7 @@ layout: post
 title:  "Nieuwe sleutellocatie"
 date:   2019-02-21
 excerpt: "We zijn op 21 februari op een nieuwe sleutellocatie gestart"
-image: "/images/clubhonk.jpg"
+image: "/images/Swalmen 5.jpg"
 ---
 
 Op 21 februari hebben we met onze leden een eerste kennismaking gehad op de nieuwe sleutelocatie bij garage RTA Thomassen in Swalmen.
