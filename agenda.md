@@ -17,7 +17,7 @@ sitemap:
 | 11 t/m 14 januari         | Inter Classics            | Maastricht 
 | 3 februari                | Swapmeet (volkswagens)    | Mol (Belgie)  
 | 8 en 9 maart              |  Britisch cars & lifestyle| Autotron Rosmalen  
-| 2e paasdag                |  **open dag KCR**         | nntb
+|  volgt nog                |  **open dag KCR**         | nntb
 | 13,14 april               |  Mustang fever            | Heusden/Zolder(BE)
 | 21 april                  |  Bloesemtocht              | St. Geertruid 
 | 3 t/m 5 mei               |  Beetles at the beach     | Nuenen 
