@@ -21,11 +21,11 @@ sitemap:
 | 13,14 april               |  Mustang fever            | Heusden/Zolder(BE)
 | 21 april                  |  Bloesemtocht              | St. Geertruid 
 | 3 t/m 5 mei               |  Beetles at the beach     | Nuenen 
-|   mei 2019  *info volgt*  |  **Toertocht KCR**        | Startpunt nntb
 | 11 en 12 mei              |  Nationaal oldtimer festival| Zandvoort
 | 11 en 12 mei              |  Montforter oldtimer treff| Montfort
 |    juni                   |  **Amerikaanse BBQ KCR**  | Swalmen
 | 14,15 en 16 juni          |  Wonderfull Wanroy        | Wanroy (De Bergen)
+| 23 juni                   |  **Toertocht KCR**        | Startpunt markt Beegden
 | 2 juli                    |  Steyl Promotion          | Steyl
 | 7 juli                    |  Oldiemama                | Maaseik  
 | 27 en 28 juli             |  Internation. Hist. Festiv| Panningen  
