@@ -9,13 +9,15 @@ sitemap:
 ---
 ## Data sleutelavonden KlassiekerClub Roermond
 
+## 9 Mei verschoven sleutelavond
+
 ### 2019
 
 | Donderdag                 |                     
 | ------------------------- | 
 | 21 Februari    | 
 | 21 Maart        | 
-| ?? April  wordt verplaatst| 
+| 09 Mei          | 
 | 16 Mei           |  
 | 20 Juni                | 
 | 18 Juli             |  
