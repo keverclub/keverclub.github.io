@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Data sleutelavonden KlassiekerClub Roermond
 
-## 9 Mei verschoven sleutelavond
+## 18 Juli sleutelavond én Amerikaanse BBQ
 
 ### 2019
 
