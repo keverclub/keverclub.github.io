@@ -46,7 +46,7 @@ phone:
 email:              killmousky@planet.nl
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
